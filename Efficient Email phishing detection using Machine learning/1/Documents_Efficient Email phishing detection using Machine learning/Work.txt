@@ -1,0 +1,30 @@
+Service Provider
+
+Login,
+Browse Email DataSets and Train & Test 
+View Trained and Tested Accuracy in Bar Chart 
+View Trained and Tested Accuracy Results 
+View Predicted EMail Phishing Detection Type 
+Find EMail Phishing Detection Type Ratio 
+Download Predicted Data Sets 
+View EMail Phishing Detection Ratio Results 
+View All Remote Users
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT EMAIL PHISHING DETECTION TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+EMail_Message
+Prediction
+
+
+
+
+
